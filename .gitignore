@@ -1,0 +1,62 @@
+# ==================================
+# Unity Generated Folders
+# ==================================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# ==================================
+# Visual Studio / Rider / VSCode
+# ==================================
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ==================================
+# Build Artifacts
+# ==================================
+*.apk
+*.aab
+*.unitypackage
+*.dll
+*.exe
+*.db
+
+# ==================================
+# SteamVR Generated Files
+# (auto-generated, safe to ignore)
+# ==================================
+Assets/SteamVR_Input_Editor.json
+Assets/SteamVR_Editor/Editor/*Input/*_auto.cs
+Assets/SteamVR_Editor/Editor/SteamVR_Input_Generated.cs
+Assets/SteamVR/Input/SteamVR_Actions_*.cs
+
+# ==================================
+# Unity Services / Cloud
+# ==================================
+*.collab
+*.cloud
+*.orig
+
+# ==================================
+# System Files
+# ==================================
+.DS_Store
+Thumbs.db
